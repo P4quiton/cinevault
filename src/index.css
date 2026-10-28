@@ -1,0 +1,21 @@
+
+:root {
+  font-family: Inter, Arial, sans-serif;
+  color: #f7f7fb;
+  background: #0b0d15;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
